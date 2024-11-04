@@ -1,4 +1,39 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Riley, an aspiring Machine Learning engineer and a current graduate student pursuing a MS in Computer science at CSU Chico. Additionally, I am a fellow in Cornell Tech's year long Break Through Tech AI program, where I completed a Foundations of Machine Learning Certificate and am currently working on a timeseries forecasting ML project with partner company Fermata Energy. I am excited to continue to learn and expand my skillset. 
+
+### Current Skills:
+<b>👾Programming Languages:</b>
+  - Python
+  - C++
+    
+<b>🤖Machine Learning:</b>
+  - Time Series Forecasting
+  - Traditional Neural Networks
+  - Convolutional Neural Networks
+  - Basic ML Models
+  - Data Analysis
+  - Data Pre-Processing
+  - Feature Engineering
+    
+<b>🛠️Tools & Libraries:</b>
+  - Pandas
+  - NumPy
+  - TensorFlow
+  - Keras
+  - Scikit-learn
+  - Librosa
+  - Matplotlib
+  - Seaborn
+  - Jupyter
+  - Git
+    
+<b>✨Soft Skills:</b>
+  - Project management
+  - Team leadership
+  - Problem-solving  
+
+### Thanks for visiting!
 
 <!--
 **riley-1995/riley-1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
