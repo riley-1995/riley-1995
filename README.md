@@ -33,6 +33,8 @@ I'm Riley, an aspiring Machine Learning engineer and a current graduate student 
   - Team leadership
   - Problem-solving  
 
+Find me on [LinkedIn](https://www.linkedin.com/in/riley-denn/)
+
 ### Thanks for visiting!
 
 <!--
