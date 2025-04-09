@@ -1,11 +1,13 @@
 ## Hello! 👋
 
-I'm Riley, an aspiring Machine Learning engineer and a current graduate student pursuing a MS in Computer Science at CSU Chico. Additionally, I am a fellow in Cornell Tech's year long Break Through Tech AI program, where I completed a Foundations of Machine Learning Certificate, a time-series forecasting ML project with partner company Fermata Energy, and am currently working on an ML project that aims to uderstand and diagnose ADHD in females using fMRI data as well as behavioral and environmental metadata. I am excited to continue to learn and expand my skillset. 
+I'm Riley, a current graduate student pursuing a MS in Computer Science at CSU Chico who is interested in careers in Machine Learning and/or Software Development. I am currently a fellow in Cornell Tech's year long Break Through Tech AI program, where I completed a Foundations of Machine Learning Certificate, a time-series forecasting ML project with partner company Fermata Energy, and am currently working on an ML project that aims to understand and diagnose ADHD. Additionally, I am currently co-creating a web-based tool, DJSongMatch, which recommends songs to DJs for potentential mixes and mashups. I am excited to continue to learn and expand my skillset.
 
 ### Current Skills:
 <b>👾Programming Languages:</b>
   - Python
   - C++
+  - JavaScript
+  - SQL
     
 <b>🤖Machine Learning:</b>
   - Time Series Forecasting
@@ -27,6 +29,8 @@ I'm Riley, an aspiring Machine Learning engineer and a current graduate student 
   - Seaborn
   - Jupyter
   - Git
+  - Flask
+  - Docker
     
 <b>✨Soft Skills:</b>
   - Project management
